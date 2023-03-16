@@ -1,0 +1,49 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body,
+html,
+main {
+    width: 100%;
+    height: 100%;
+}
+
+main {
+    display: flex;
+}
+
+.col-33 {
+    width: 33%;
+}
+
+.col-full-width {
+    flex: 1 1 0;
+}
+
+.dark-section {
+    background-color: #29292b;
+    color: #fefeff;
+}
+
+.white-section {
+    background-color: #ffffff;
+    color: #4b4b4b;
+}
+
+.primary-color {
+    background-color: #ff9d35;
+}
+
+.full-height {
+    height: 100%;
+}
+
+header {
+    position: absolute;
+    width: 100%;
+    height: 300px;
+    background-color: red;
+}

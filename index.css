@@ -18,6 +18,16 @@ main {
     display: flex;
 }
 
+h1 {
+    font-size: 17px;
+    letter-spacing: 2px;
+}
+
+h2 {
+    font-size: 16px;
+    letter-spacing: 3px;
+}
+
 .col-33 {
     width: 33%;
 }
@@ -66,11 +76,6 @@ header {
     justify-content: center;
 }
 
-.data-bar h1 {
-    font-size: 17px;
-    letter-spacing: 2px;
-}
-
 .data-bar p {
     font-size: 14px;
     letter-spacing: 2px;
@@ -105,8 +110,8 @@ header {
     width: 100%;
     color: #29292b;
     text-align: right;
-    padding-right: 50px;
     margin-bottom: 30px;
+    padding: 5px 65px 5px 0;
 }
 
 .experience-ul {

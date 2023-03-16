@@ -31,6 +31,7 @@ main {
 .white-section {
     background-color: #ffffff;
     color: #4b4b4b;
+    padding-top: 250px;
 }
 
 .primary-color {
@@ -45,7 +46,7 @@ header {
     position: absolute;
     width: 100%;
     height: 250px;
-    background-color: red;
+    background-color: transparent;
     display: flex;
     align-items: center;
 }

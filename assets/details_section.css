@@ -13,15 +13,16 @@
     height: fit-content;
     padding: 7px 12px;
     margin-bottom: 20px;
+    margin-top: 30px;
 }
 
 .details-section .title-container h2 {
     letter-spacing: 2px;
 }
 
-.contact-list {
+.contact-list,
+.skill-list {
     list-style-type: none;
-    margin-bottom: 30px;
 }
 
 .contact-list li {
@@ -37,4 +38,11 @@
     margin-right: 10px;
     filter: invert(79%) sepia(27%) saturate(3835%) hue-rotate(331deg) brightness(100%)
         contrast(104%);
+}
+
+.skill-list li {
+    font-size: 13px;
+    display: flex;
+    align-items: center;
+    margin-top: 15px;
 }

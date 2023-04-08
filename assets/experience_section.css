@@ -1,16 +1,19 @@
-.white-section {
+.experience-section {
     background-color: #ffffff;
     color: #4b4b4b;
     padding-top: 250px;
     padding-right: 50px;
 }
 
-.white-section .title-container {
+.experience-section .title-container {
     width: 100%;
     color: #29292b;
     text-align: right;
     margin-bottom: 30px;
     padding: 5px 65px 5px 0;
+}
+.experience-section .title-container h2 {
+    letter-spacing: 3px;
 }
 
 .experience-ul {

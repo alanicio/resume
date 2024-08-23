@@ -4,55 +4,60 @@
 @import "details_section.css";
 
 * {
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-    font-family: "Roboto", sans-serif;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
 }
 
 body,
 html,
 main {
-    width: 100%;
-    height: 100%;
+  width: 100%;
+  height: 100%;
 }
 
 main {
-    display: flex;
+  display: flex;
 }
 
 h1 {
-    font-size: 17px;
-    letter-spacing: 2px;
+  font-size: 17px;
+  letter-spacing: 2px;
 }
 
 h2 {
-    font-size: 16px;
+  font-size: 16px;
 }
 
 a {
-    color: inherit;
-    text-decoration: inherit;
-    display: flex;
-    align-items: center;
+  color: inherit;
+  text-decoration: inherit;
+  display: flex;
+  align-items: center;
 }
 
 .fs-11-5 {
-    font-size: 11.5px;
+  font-size: 11.5px;
 }
 
 .col-33 {
-    width: 33%;
+  width: 33%;
 }
 
 .col-full-width {
-    flex: 1 1 0;
+  flex: 1 1 0;
 }
 
 .primary-color {
-    background-color: #ff9d35;
+  background-color: #ff9d35;
 }
 
 .full-height {
-    height: 100%;
+  height: 100%;
+}
+
+.page-break-before-always {
+  page-break-before: always;
+  padding-top: 50px;
 }

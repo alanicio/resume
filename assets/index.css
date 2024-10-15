@@ -63,12 +63,14 @@ a {
 
 .page-break-before-always {
   page-break-before: always;
+  padding-top: 50px;
 }
 
 .mb-30 {
   margin-bottom: 30px;
 }
 
-.p-10 {
-  padding: 15px;
+.paragraph-about-me {
+  padding: 15px 20px;
+  text-align: justify;
 }

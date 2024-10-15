@@ -1,54 +1,53 @@
 .experience-section {
-    background-color: #ffffff;
-    color: #4b4b4b;
-    padding-top: 250px;
-    padding-right: 50px;
+  background-color: #ffffff;
+  color: #4b4b4b;
+  padding-top: 250px;
+  padding-right: 50px;
 }
 
 .experience-section .title-container {
-    width: 100%;
-    color: #29292b;
-    text-align: right;
-    margin-bottom: 30px;
-    padding: 5px 65px 5px 0;
+  width: 100%;
+  color: #29292b;
+  text-align: right;
+  padding: 5px 65px 5px 0;
 }
 .experience-section .title-container h2 {
-    letter-spacing: 3px;
+  letter-spacing: 3px;
 }
 
 .experience-ul {
-    margin-left: 20px;
+  margin-left: 20px;
 }
 
 .experience-ul li {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 20px;
 }
 
 .date-and-company {
-    width: 30%;
-    font-weight: bold;
-    font-size: 13px;
+  width: 30%;
+  font-weight: bold;
+  font-size: 13px;
 }
 
 .jobs-details {
-    width: 55%;
-    text-align: justify;
+  width: 55%;
+  text-align: justify;
 }
 
 .square-bullet {
-    width: 15px;
-    height: 15px;
-    max-width: 15px;
-    max-height: 15px;
-    min-width: 15px;
-    min-height: 15px;
-    background-color: #ff9d35;
-    margin-right: 10px;
+  width: 15px;
+  height: 15px;
+  max-width: 15px;
+  max-height: 15px;
+  min-width: 15px;
+  min-height: 15px;
+  background-color: #ff9d35;
+  margin-right: 10px;
 }
 
 .jobs-details {
-    font-size: 12px;
+  font-size: 12px;
 }
